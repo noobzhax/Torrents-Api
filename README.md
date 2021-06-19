@@ -117,8 +117,7 @@ https://torrenter-api.herokuapp.com/api/{website}/{query}/{page(optional)}
 https://torrenter-api.herokuapp.com/api/nyaasi/jujutsu kaisen/2
 ```
 ---
-#### You can fork the repo and deploy on VPS or deploy it on Heroku :)  
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-
+#### You can fork the repo and deploy on VPS ,Heroku, Or Vercel :)
+[![Deploy](https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku)](https://heroku.com/deploy)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Fnoobzhax%2FTorrents-Api)
 ---
